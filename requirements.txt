@@ -9,7 +9,7 @@ django-allauth==0.41.0
 django-crispy-forms==1.9.0
 django-rest-auth==0.9.5
 django-tinymce4-lite==1.8.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 Faker==4.0.1
 fetcher==0.9.2.6
 filelock==3.0.12
